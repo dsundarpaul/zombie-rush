@@ -1,0 +1,21 @@
+{
+  "name": "zombie-rush",
+  "version": "1.0.0",
+  "description": "Hello this is the inital REAMME for zombie-rush game, build in typescript 🚀",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^8.21.0",
+    "@typescript-eslint/parser": "^8.21.0",
+    "eslint": "^9.18.0",
+    "eslint-config-prettier": "^10.0.1",
+    "eslint-plugin-prettier": "^5.2.3",
+    "prettier": "^3.4.2",
+    "typescript": "^5.7.3"
+  }
+}
